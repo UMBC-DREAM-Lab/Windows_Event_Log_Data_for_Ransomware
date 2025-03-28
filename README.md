@@ -1,0 +1,1 @@
+# Windows_Event_Log_Data_for_Ransomware
