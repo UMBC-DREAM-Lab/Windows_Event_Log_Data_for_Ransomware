@@ -11,6 +11,7 @@ The focus of this research is on analyzing Windows Event Log patterns generated 
 automate_collecting_data.py :<br>
 
 Script used to merge Windows Application, Security, and System logs into unified event sequences per machine.<br>
+
 feature_dataset_AD.ipynb :<br>
 
 Jupyter notebook for generating short-term behavior features from the combined logs and building the ML dataset.<br>
